@@ -1,4 +1,4 @@
-# REACT - Trabajando con componentes
+# REACT - Ciclo de vida de un componente
 ## Desafio del curso FullStack de Digital House
 
 <a href="https://github.com/Kaiael24/React-Ciclo_de_vida_de_los_componentes/blob/master/Desafio/desafio.pdf">IR AL PDF<a>
